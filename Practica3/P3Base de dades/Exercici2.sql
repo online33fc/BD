@@ -1,0 +1,1 @@
+SELECT DISTINCT property_id FROM viewing;
